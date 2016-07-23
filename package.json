@@ -1,0 +1,24 @@
+{
+  "name": "fishfriends",
+  "version": "1.0.0",
+  "description": "A virtual fishtank for our friends' fish.",
+  "main": "index.js",
+  "dependencies": {
+    "webpack": "^1.13.1",
+    "webpack-dev-server": "^1.14.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/seveneightn9ne/fishfriends.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/seveneightn9ne/fishfriends/issues"
+  },
+  "homepage": "https://github.com/seveneightn9ne/fishfriends#readme"
+}
